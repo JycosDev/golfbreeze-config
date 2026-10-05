@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "message": "",
+  "courses": [
+    { "id": "breeze-island", "enabled": true, "notice": "", "fallbackHoles": [] },
+    { "id": "coral-cays", "enabled": true, "notice": "", "fallbackHoles": [] }
+  ]
+}
