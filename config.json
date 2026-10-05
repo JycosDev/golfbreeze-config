@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "message": "",
   "courses": [
     {
@@ -10,11 +10,9 @@
     },
     {
       "id": "coral-cays",
-      "enabled": false,
+      "enabled": true,
       "notice": "",
-      "fallbackHoles": [
-        7
-      ]
+      "fallbackHoles": []
     }
   ]
 }
